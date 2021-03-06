@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			Welcome Page
+			Welcome to Page
 		</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
